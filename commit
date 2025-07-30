@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "Gerador de TR (Lei 14.133/2021) — Brasnorte-MT"
+git branch -M main
+git remote add origin https://github.com/<seu-usuario>/brasnorte-tr.git
+git push -u origin main

@@ -69,10 +69,10 @@ def gerar_tr(
     # 1. Das condições gerais
     md.append("## 1. DAS CONDIÇÕES GERAIS DA CONTRATAÇÃO\n")
     md.append(
-        f"1.1 O presente Termo de Referência tem por objeto {objeto_md}, conforme especificações, quantidades e condições estabelecidas neste documento, visando atender à Prefeitura Municipal de Brasnorte-MT e às suas Secretarias Municipais.\n"
-        f"1.2 O objeto desta contratação não se enquadra como sendo de bem de luxo, conforme Decreto Municipal nº 03/2024.\n"
-        f"1.3 O prazo de vigência da contratação será de , str(vigencia_meses) , c contados da data de assinatura da ARP (Ata Registro de Preço) ou do Contrato conforme celebrado, na forma do artigo 105 da Lei n° 14.133/2021, podendo o mesmo ser prorrogado a critério da Administração Pública.\n"
-        f"1.4 O custo estimado total da contratação é de R$ 00.000,00 (.................reais) conforme custos unitários apostos na tabela acima, conforme pesquisa de preço nos termos do Decreto Municipal n° 05/2024.\n"
+        f"1.1 O presente Termo de Referência tem por objeto {objeto_md}, conforme especificações, quantidades e condições estabelecidas neste documento, visando atender à Prefeitura Municipal de Brasnorte-MT e às suas Secretarias Municipais. \n"
+        f"1.2 O objeto desta contratação não se enquadra como sendo de bem de luxo, conforme Decreto Municipal nº 03/2024. \n"
+        f"1.3 O prazo de vigência da contratação será de md.append(monta_bloco("Prazo de vigência (meses)", str(vigencia_meses))), contados da data de assinatura da ARP (Ata Registro de Preço) ou do Contrato conforme celebrado, na forma do artigo 105 da Lei n° 14.133/2021, podendo o mesmo ser prorrogado a critério da Administração Pública. \n"
+        f"1.4 O custo estimado total da contratação é de R$ 00.000,00 (.................reais) conforme custos unitários apostos na tabela acima, conforme pesquisa de preço nos termos do Decreto Municipal n° 05/2024. \n"
     )
 
 

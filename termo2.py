@@ -69,7 +69,7 @@ def gerar_tr(
     # 1. Das condições gerais
     md.append("## 1. DAS CONDIÇÕES GERAIS DA CONTRATAÇÃO\n")
     md.append(
-        f"1.1 O presente Termo de Referência tem por objeto {objeto_md}, conforme especificações, quantidades e condições estabelecidas neste documento, visando atender à Prefeitura Municipal de Brasnorte-MT e às suas Secretarias Municipais.\n"
+        f"1.1 O presente Termo de Referência tem por objeto {objeto_md}, em conformidade com as especificações de descrição e quantidade detalhadamente elencadas neste documento, amparada pelas disposições legais vigentes que regulam tal procedimento, visando atender as necessidades da Prefeitura Municipal de Brasnorte-MT e de suas Secretarias Municipais.\n"
     )
     (
                 f"1.2 O objeto desta contratação não se enquadra como sendo de bem de luxo, conforme Decreto Municipal nº 03/2024.\n"

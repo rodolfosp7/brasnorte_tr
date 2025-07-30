@@ -76,8 +76,8 @@ def gerar_tr(
     )
     (
                 f"1.3 O prazo de vigência da contratação será de md.append(monta_bloco("Prazo de vigência (meses)", str(vigencia_meses))), contados da data de assinatura da ARP (Ata Registro de Preço) ou do Contrato conforme celebrado, na forma do artigo 105 da Lei n° 14.133/2021, podendo o mesmo ser prorrogado a critério da Administração Pública.\n"
-                )
-                (
+    )
+    (
         f"1.4 O custo estimado total da contratação é de R$ 00.000,00 (.................reais) conforme custos unitários apostos na tabela acima, conforme pesquisa de preço nos termos do Decreto Municipal n° 05/2024. \n"
     )
 

@@ -205,8 +205,7 @@ if __name__ == "__main__":
     md.append("\n---\n")
     md.append("_Observação: este documento deve ser ajustado ao objeto específico, convertendo requisitos em métricas mensuráveis (números, tolerâncias, prazos e padrões)._")
 
-    return "".join(md)
-
+    
 # ----------------------------------
 # Lista fixa de Secretarias (multiselect)
 # ----------------------------------

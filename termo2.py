@@ -131,14 +131,6 @@ if __name__ == "__main__":
     print(texto_gerado)
 
     
-    
-    
-    md.append("- **Contexto e problema a resolver:** descreve por que o objeto é necessário, quem será atendido e quais resultados públicos se pretende alcançar.\n")
-    md.append("- **Consequências da não contratação:** riscos operacionais, legais, orçamentários e de continuidade do serviço público.\n")
-    md.append("- **Alinhamento ao planejamento:** vinculação a PPA/LDO/LOA e planos setoriais, quando aplicável.\n")
-    md.append("- **Justificativa técnica e vantajosidade:** adequação do objeto em desempenho, qualidade, custo total do ciclo de vida e economicidade.\n")
-    md.append("- **Fundamentação legal sucinta:** dispositivos pertinentes da Lei nº 14.133/2021 (ex.: art. 6º, art. 40 e, quando cabível, art. 92) e Decreto Municipal nº 09/2024, sem transcrições.\n")
-
     # 3. Solução, opções e ciclo de vida
     md.append("## 3. DESCRIÇÃO DA SOLUÇÃO COMO UM TODO (CICLO DE VIDA) E ESPECIFICAÇÃO DOS SERVIÇOS\n")
     md.append("**Resumo da necessidade (síntese):** [apresentar em 3–5 linhas].\n\n")
